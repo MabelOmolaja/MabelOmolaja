@@ -1,6 +1,6 @@
 # Hi, I'm Mabel
 
-## Cloud Engineer in Training | AWS Certified Cloud Practitioner
+## DeVops Engineer in Training | AWS Certified Cloud Practitioner
 
 I am a career changer transitioning into Cloud Engineering through 
 structured learning, hands-on projects, and continuous practice.
@@ -146,6 +146,7 @@ Currently learning:
 - Cloud Security
 - Automation
 - Kubernetes
+- DevOps automation practices
 
 ---
 
@@ -170,11 +171,8 @@ https://whatsapp.com/channel/0029Vb8vjzY6mYPVYPv5qO3D
 
 # My Goal
 
-My goal is to become a Cloud Infrastructure Engineer, helping 
-organisations build secure, reliable, and scalable cloud solutions.
+My goal is to become a DevOps Engineer, helping organisations build, automate, and maintain secure, reliable, and scalable cloud solutions.
 
-I am passionate about continuous learning, building practical solutions, 
-and sharing my journey to encourage others who are exploring careers in 
-technology.
+I am passionate about cloud technologies, automation, continuous improvement, and building efficient deployment processes.
 
 Thank you for visiting my profile.
