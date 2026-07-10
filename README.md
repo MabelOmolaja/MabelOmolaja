@@ -104,7 +104,7 @@ https://github.com/MabelOmolaja/aws-highly-available-web-application
 
 # Cloud Journey
 
-AWS re/Start Cloud Training Programme
+AWS re/Start Graduate
 
 AWS Certified Cloud Practitioner
 
