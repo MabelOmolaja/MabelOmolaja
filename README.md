@@ -19,7 +19,36 @@ careers in technology.
 
 # Featured Cloud Projects
 
-## 1. Deploying a Secure Static Website Using Amazon S3 and CloudFront
+1. Automating Website Deployment to AWS with GitHub Actions (CI/CD)
+
+AWS Services Used
+
+- Amazon S3
+- AWS IAM
+- GitHub Actions
+
+What I Built
+
+- Created a CI/CD pipeline using GitHub Actions
+- Configured secure AWS authentication using GitHub Secrets
+- Automated deployment of website files to an Amazon S3 bucket
+- Triggered deployments automatically on every push to the main branch
+
+What I Learned
+
+- CI/CD fundamentals and deployment automation
+- GitHub Actions workflow creation and management
+- Secure credential management using IAM and GitHub Secrets
+- Automating cloud deployments using AWS services
+- Troubleshooting authentication and deployment issues
+
+Project Repository
+
+https://github.com/MabelOmolaja/aws-github-actions-s3-deployment
+
+---
+
+## 2. Deploying a Secure Static Website Using Amazon S3 and CloudFront
 
 AWS Services Used:
 
@@ -45,7 +74,7 @@ https://github.com/MabelOmolaja/aws-s3-cloudfront-static-website
 
 ---
 
-## 2. Building a Secure Multi-AZ AWS Environment
+## 3. Building a Secure Multi-AZ AWS Environment
 
 AWS Services Used:
 
@@ -75,7 +104,7 @@ https://github.com/MabelOmolaja/aws-secure-multi-az-environment
 
 ---
 
-## 3. Designing a Highly Available Web Application Architecture on AWS
+## 4. Designing a Highly Available Web Application Architecture on AWS
 
 AWS Services Used:
 
